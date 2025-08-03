@@ -1,0 +1,9 @@
+youtuber-analysis-sql/
+├── README.md
+├── data/
+│   └── top_100_youtube_channels.csv
+├── queries/
+│   ├── top_subscribers.sql
+│   ├── engagement_ratio.sql
+└── output/
+    └── analysis_summary.md
